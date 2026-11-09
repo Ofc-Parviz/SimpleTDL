@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleTDL.Web", "SimpleTDL.Web\SimpleTDL.Web.csproj", "{EDE1A1ED-3769-4114-8491-D024B6F6C25F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDE1A1ED-3769-4114-8491-D024B6F6C25F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDE1A1ED-3769-4114-8491-D024B6F6C25F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDE1A1ED-3769-4114-8491-D024B6F6C25F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDE1A1ED-3769-4114-8491-D024B6F6C25F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {014639B9-1848-4117-90C3-77D81047CC2C}
+	EndGlobalSection
+EndGlobal
